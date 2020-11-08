@@ -2,6 +2,8 @@
 
  Manage global state using React’s Context API with an open-source JavaScript library called Redux.
 
+ Live Demo: [Heroku] https://frozen-sands-79692.herokuapp.com/
+
 ## Installation
 ---
 1. Clone repo and open Terminal
@@ -35,4 +37,3 @@
 [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
 
 * [RepoLink] https://github.com/Ceven8498/Redux-Store
-* [Heroku]
