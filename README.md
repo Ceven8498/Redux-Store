@@ -1,16 +1,13 @@
 # Redux Shop
-
- Manage global state using React’s Context API with an open-source JavaScript library called Redux.
-
- Live Demo: [Heroku] https://frozen-sands-79692.herokuapp.com/
+Manage global state using React’s Context API with an open-source JavaScript library called Redux.
 
 ## Installation
 ---
 1. Clone repo and open Terminal
 2. `npm i` for Dependencies
 3. In Terminal
-   (type) `npm run seed` to seed data
-   (type) `npm start` to start server
+   * (type) `npm run seed` to seed data
+   * (type) `npm start` to start server
 
 ## Usage
 ---
@@ -20,20 +17,23 @@
 
 
 
-### Dependencies
-    ---
-[Nodejs](https://nodejs.org/en/)
-[Express](https://www.npmjs.com/package/express)
-[BootStrap](https://www.npmjs.com/package/bootstrap)
-[Apollo](https://www.npmjs.com/package/apollo-server-express)
-[Mongodb](http://wwww.mongodb.com/)
-[Graphql](https://www.npmjs.com/package/graphql)
-[React](https://www.npmjs.com/package/react)
-[React-Scrpits](https://www.npmjs.com/package/react-scripts) 
-[React-strap](https://www.npmjs.com/package/react-bootstrap)
-[React-Router-dom](https://www.npmjs.com/package/react-router-dom) 
-[Strip](https://www.npmjs.com/package/stripe)
-[Heroku](https://www.heroku.com) 
-[jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+## Dependencies
+---
+* [Nodejs](https://nodejs.org/en/)
+* [Express](https://www.npmjs.com/package/express)
+* [BootStrap](https://www.npmjs.com/package/bootstrap)
+* [Apollo](https://www.npmjs.com/package/apollo-server-express)
+* [Mongodb](http://wwww.mongodb.com/)
+* [Graphql](https://www.npmjs.com/package/graphql)
+* [React](https://www.npmjs.com/package/react)
+* [React-Scrpits](https://www.npmjs.com/package/react-scripts) 
+* [React-strap](https://www.npmjs.com/package/react-bootstrap)
+* [React-Router-dom](https://www.npmjs.com/package/react-router-dom) 
+* [Stripe](https://www.npmjs.com/package/stripe)
+* [Heroku](https://www.heroku.com) 
+* [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
 
+## Links
+---
 * [RepoLink] https://github.com/Ceven8498/Redux-Store
+* Live Demo: [Heroku] https://frozen-sands-79692.herokuapp.com/
