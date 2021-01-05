@@ -26,7 +26,7 @@ Manage global state using React’s Context API with an open-source JavaScript l
 * [Mongodb](http://wwww.mongodb.com/)
 * [Graphql](https://www.npmjs.com/package/graphql)
 * [React](https://www.npmjs.com/package/react)
-* [React-Scrpits](https://www.npmjs.com/package/react-scripts) 
+* [React-Scripts](https://www.npmjs.com/package/react-scripts) 
 * [React-strap](https://www.npmjs.com/package/react-bootstrap)
 * [React-Router-dom](https://www.npmjs.com/package/react-router-dom) 
 * [Stripe](https://www.npmjs.com/package/stripe)
