@@ -37,5 +37,5 @@ Manage global state using React’s Context API with an open-source JavaScript l
 
 ## Links
 ---
-* Repo: [RepoLink] https://github.com/Ceven8498/Redux-Store
+* Repo: [Repo](https://github.com/Ceven8498/Redux-Store)
 * Live Demo: [Heroku](https://aqueous-mesa-67588.herokuapp.com/)
