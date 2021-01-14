@@ -15,6 +15,8 @@ Manage global state using React’s Context API with an open-source JavaScript l
 2. This app runs on http://localhost:3000/ which should automaticly start in your default browser
 3. UI allows for you to login and search for products and add them shopping cart and purchase products.
 
+### Note
+ If no products show up dont forget to seed the database, you will need mongodb set up as well.
 
 
 ## Dependencies
@@ -35,5 +37,5 @@ Manage global state using React’s Context API with an open-source JavaScript l
 
 ## Links
 ---
-* [RepoLink] https://github.com/Ceven8498/Redux-Store
+* Repo: [RepoLink] https://github.com/Ceven8498/Redux-Store
 * Live Demo: [Heroku](https://aqueous-mesa-67588.herokuapp.com/)
